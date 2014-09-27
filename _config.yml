@@ -1,5 +1,5 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
+name: ghelØbytes
+description: hack of all trades. master of none. really.
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
 markdown: redcarpet
@@ -8,5 +8,5 @@ logo: false
 paginate: 15
 
 # Details for the RSS feed generator
-url:            'blog url'
-author:         'Your Name'
+url:            'http://ghelobytes.github.io'
+author:         'Angelo Arboleda'
