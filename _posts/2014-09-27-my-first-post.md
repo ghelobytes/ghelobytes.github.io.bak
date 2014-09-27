@@ -26,6 +26,8 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 [jekyll]:    http://jekyllrb.com
 
 
+<!--
+
 
 # Header 1 #
 ## Header 2 ##
@@ -117,3 +119,6 @@ Pop
 * Definitions can include multiple paragraphs too
 
 *[ABBR]: Markdown plus abbreviations (produces an <abbr> tag)
+
+
+-->
